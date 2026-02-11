@@ -16,16 +16,15 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: generate-snake-game
-        # กลับมาใช้ v3 แต่เขียน outputs แบบใหม่
-        uses: platane/snk@v3
+      - name: generate-pacman-svg
+        uses: platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/pacman-contribution-graph.svg?snake=pacman&color_snake=#fdb813
-            dist/pacman-contribution-graph-dark.svg?snake=pacman&color_snake=#fdb813&palette=github-dark
+            dist/pacman.svg?snake=pacman&color_snake=#fdb813
+            dist/pacman-dark.svg?snake=pacman&color_snake=#fdb813&palette=github-dark
           
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
