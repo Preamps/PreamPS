@@ -31,17 +31,15 @@ Game Dev | Never stop learning, never stop building.
   <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="30" alt="photoshop logo"  />
 </div>
-###
 
 ## 🧩 My Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Preamps/PreamPS/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Preamps/PreamPS/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Preamps/PreamPS/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 📬 Contact
 ###
