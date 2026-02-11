@@ -2,28 +2,25 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+
     steps:
-      - name: generate-pacman-svg
-        uses: platane/snk/svg-only@v3
+      - name: generate pacman contribution graph
+        uses: platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman.svg?snake=pacman&color_snake=#fdb813
-            dist/pacman-dark.svg?snake=pacman&color_snake=#fdb813&palette=github-dark
-          
+          github_user_name: PreamPS
+          svg_out_path: dist/pacman.svg
+
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
