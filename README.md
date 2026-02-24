@@ -11,6 +11,7 @@ Game Dev | Never stop learning, never stop building.
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"height="25" alt="gmail logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
@@ -39,6 +40,11 @@ Game Dev | Never stop learning, never stop building.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Preamps/PreamPS/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Preamps/PreamPS/output/pacman-contribution-graph.svg">
 </picture>
+
+
+## 
+
+
 
 ## 📬 Contact
 ###
