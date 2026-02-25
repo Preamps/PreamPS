@@ -1,36 +1,34 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Preamps
+### Developer
 
-Developer
----------
-
-Game Dev | Never stop learning, never stop building.
+ Game Dev | Never stop learning, never stop building.
 
 # 💻 Techinical Skills
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"height="25" alt="gmail logo" />
+    <img height="25" alt="gmail logo" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"height="25" alt="gmail logo" />
+    <img height="25" alt="Visual_Studio logo" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"height="25" alt="gmail logo" />
+    <img height="25" alt="Vscode logo" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"height="25" alt="gmail logo" />
+    <img height="25" alt="C# logo" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"height="25" alt="gmail logo" />
+    <img height="25" alt="github logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"height="25" alt="gmail logo" />
+    <img height="25" alt="notion logo"src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img width="5" />
-  <img src="https://img.shields.io/badge/mermaid-pink?style=for-the-badge&logo=mermaid"height="25" alt="gmail logo" />
+    <img height="25" alt="mermaid logo"src="https://img.shields.io/badge/mermaid-pink?style=for-the-badge&logo=mermaid" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"height="25" alt="gmail logo" />
+    <img height="25" alt="Unreal logo" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"height="25" alt="gmail logo" />
+    <img height="25" alt="Pr logo" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"height="25" alt="gmail logo" />
+    <img height="25" alt="Ph logo" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white"height="25" alt="gmail logo" />
+    <img height="25" alt="docs logo" src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"height="25" alt="gmail logo" />
+    <img height="25" alt="sheet logo"src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </div>
 
 # 🧩 My Contribution Graph
@@ -42,7 +40,7 @@ Game Dev | Never stop learning, never stop building.
 </picture>
 
 
-#   My Priject
+#   My Project
 
 <p align="center">
   <img width="500" alt="ImNotNuggets" src="https://github.com/Preamps/PreamPS/blob/6c429bb4665659c3595f0b1b5addb6435e77bc1e/Logo%20game/ImNotNuggets%20logo.png" />
@@ -75,8 +73,9 @@ Game Dev | Never stop learning, never stop building.
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/0/?view=cm&to=preampstv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+   <img height="50" alt="portfolio" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Fview%3Dcm%26to%3Dpreampstv%40gmail.com" />
+<img width="5" />
+    <img height="50" alt="portfolio" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white" />
   </a>
 </div>
 
