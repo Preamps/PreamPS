@@ -8,9 +8,9 @@
 <div align="left">
     <img height="25" alt="gmail logo" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img width="5" />
-    <img height="25" alt="Visual_Studio logo" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img height="25" alt="Visual_Studio logo" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
   <img width="5" />
-    <img height="25" alt="Vscode logo" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img height="25" alt="Vscode logo" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img width="5" />
     <img height="25" alt="C# logo" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img width="5" />
@@ -46,10 +46,10 @@
   <img width="500" alt="ImNotNuggets" src="https://github.com/Preamps/PreamPS/blob/6c429bb4665659c3595f0b1b5addb6435e77bc1e/Logo%20game/ImNotNuggets%20logo.png" />
 <p align="center">  
  <a href = "https://azalea44.itch.io/imnotnuggets"> 
- <img height="50" alt="ImNotNuggets itch" src="https://img.shields.io/badge/ImNotNuggets-orange?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fazalea44.itch.io%2Fimnotnuggets" />
+ <img height="50" alt="ImNotNuggets itch" src="https://img.shields.io/badge/ImNotNuggets-orange?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fazalea44.itch.io%2Fimnotnuggets"/>
 <img width="5" />
   <a href = "https://github.com/Preamps/ImNotNuggets">
- <img height="50" alt="ImNotNuggets repo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FPreamps%2FImNotNuggets" />
+ <img height="50" alt="ImNotNuggets repo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FPreamps%2FImNotNuggets"/>
 </p>
 
 
@@ -57,10 +57,10 @@
   <img width="500" alt="overAndUnde" src="https://github.com/Preamps/PreamPS/blob/6c429bb4665659c3595f0b1b5addb6435e77bc1e/Logo%20game/OVER-AND-UNDER%20logo.png" />
 <p align="center">
  <a href ="https://preamps.itch.io/over-and-under">  
- <img height="50" alt="overAndUnder itch" src="https://img.shields.io/badge/OVER%20AND%20UNDER-blue?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fpreamps.itch.io%2Fover-and-under" />
+ <img height="50" alt="overAndUnder itch" src="https://img.shields.io/badge/OVER%20AND%20UNDER-blue?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fpreamps.itch.io%2Fover-and-under"/>
 <img width="5" />
   <a href ="https://github.com/vrp-winner/OVER-AND-UNDER"> 
- <img height="50" alt="overAndUnde repo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fvrp-winner%2FOVER-AND-UNDER" />
+ <img height="50" alt="overAndUnde repo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fvrp-winner%2FOVER-AND-UNDER"/>
 </p>
 
 
@@ -68,10 +68,10 @@
   <img width="500" alt="Foxrio" src="https://github.com/Preamps/PreamPS/blob/6c429bb4665659c3595f0b1b5addb6435e77bc1e/Logo%20game/FoxRio%20logo.png" />
 <p align="center">
   <a href = "https://preamps.itch.io/foxrio" >
-  <img height="50" alt="foxrio itch" src="https://img.shields.io/badge/Foxrio-orange?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fpreamps.itch.io%2Ffoxrio" />
+  <img height="50" alt="foxrio itch" src="https://img.shields.io/badge/Foxrio-orange?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fpreamps.itch.io%2Ffoxrio"/>
 <img width="5" />
   <a href="https://github.com/Preamps/229H_Noir_Foxrio">
-  <img height="50" alt="foxriorepo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FPreamps%2F229H_Noir_Foxrio" />
+  <img height="50" alt="foxriorepo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FPreamps%2F229H_Noir_Foxrio"/>
 </p>
 
 
