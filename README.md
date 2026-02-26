@@ -45,26 +45,32 @@
 <p align="center">
   <img width="500" alt="ImNotNuggets" src="https://github.com/Preamps/PreamPS/blob/6c429bb4665659c3595f0b1b5addb6435e77bc1e/Logo%20game/ImNotNuggets%20logo.png" />
 <p align="center">  
-  <img height="50" alt="ImNotNuggets itch" src="https://img.shields.io/badge/ImNotNuggets-orange?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fazalea44.itch.io%2Fimnotnuggets" />
+ <a href = "https://azalea44.itch.io/imnotnuggets"> 
+ <img height="50" alt="ImNotNuggets itch" src="https://img.shields.io/badge/ImNotNuggets-orange?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fazalea44.itch.io%2Fimnotnuggets" />
 <img width="5" />
-  <img height="50" alt="ImNotNuggets repo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FPreamps%2FImNotNuggets" />
+  <a href = "https://github.com/Preamps/ImNotNuggets">
+ <img height="50" alt="ImNotNuggets repo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FPreamps%2FImNotNuggets" />
 </p>
 
 
 <p align="center">
   <img width="500" alt="overAndUnde" src="https://github.com/Preamps/PreamPS/blob/6c429bb4665659c3595f0b1b5addb6435e77bc1e/Logo%20game/OVER-AND-UNDER%20logo.png" />
 <p align="center">
-  <img height="50" alt="overAndUnder itch" src="https://img.shields.io/badge/OVER%20AND%20UNDER-blue?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fpreamps.itch.io%2Fover-and-under" />
+ <a href ="https://preamps.itch.io/over-and-under">  
+ <img height="50" alt="overAndUnder itch" src="https://img.shields.io/badge/OVER%20AND%20UNDER-blue?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fpreamps.itch.io%2Fover-and-under" />
 <img width="5" />
-  <img height="50" alt="overAndUnde repo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fvrp-winner%2FOVER-AND-UNDER" />
+  <a href ="https://github.com/vrp-winner/OVER-AND-UNDER"> 
+ <img height="50" alt="overAndUnde repo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fvrp-winner%2FOVER-AND-UNDER" />
 </p>
 
 
 <p align="center">
   <img width="500" alt="Foxrio" src="https://github.com/Preamps/PreamPS/blob/6c429bb4665659c3595f0b1b5addb6435e77bc1e/Logo%20game/FoxRio%20logo.png" />
- <p align="center">
+<p align="center">
+  <a href = "https://preamps.itch.io/foxrio" >
   <img height="50" alt="foxrio itch" src="https://img.shields.io/badge/Foxrio-orange?style=for-the-badge&logo=itch.io&logoColor=white&link=https%3A%2F%2Fpreamps.itch.io%2Ffoxrio" />
 <img width="5" />
+  <a href="https://github.com/Preamps/229H_Noir_Foxrio">
   <img height="50" alt="foxriorepo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FPreamps%2F229H_Noir_Foxrio" />
 </p>
 
@@ -72,10 +78,12 @@
 ## 📬 Contact
 ###
 
-<div align="left">
-   <img height="50" alt="portfolio" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Fview%3Dcm%26to%3Dpreampstv%40gmail.com" />
+<p align="left">
+  <a href="https://mail.google.com/mail/u/0/?view=cm&to=preampstv@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <img width="5" />
-    <img height="50" alt="portfolio" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white" />
+    <a href = "" >
+    <img height="50" alt="portfolio"  src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white" />
   </a>
 </div>
 
