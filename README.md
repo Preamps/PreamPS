@@ -82,7 +82,7 @@
   <a href="https://mail.google.com/mail/u/0/?view=cm&to=preampstv@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <img width="5" />
-    <a href = "" >
+    <a href = "https://www.preamps.tech" >
     <img height="50" alt="portfolio"  src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white" />
   </a>
 </div>
