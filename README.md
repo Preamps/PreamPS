@@ -41,8 +41,19 @@
 
 
 # My Project
-
 <!-- Game 1 -->
+<p align="left">
+  <img src="https://github.com/Preamps/PreamPS/blob/main/Logo%20game/Logo.png" width="55%" align="left"/>
+  <span align="right">
+    <br/><br/><br/><br/><br/><br/>
+    <a href="https://azalea44.itch.io/imnotnuggets"><img height="50" alt="imabigfish itch" src="https://img.shields.io/badge/imabigfish-white?style=for-the-badge&logo=itch.io&logoColor=white&color=blue"/></a>
+    <a href="https://github.com/Preamps/Im-a-Big-Fish"><img height="40" alt="imabigfish repo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </span>
+</p>
+<br clear="all"/>
+
+
+<!-- Game 2 -->
 <p align="left">
   <img src="https://github.com/Preamps/PreamPS/blob/6c429bb4665659c3595f0b1b5addb6435e77bc1e/Logo%20game/ImNotNuggets%20logo.png" width="55%" align="left"/>
   <span align="right">
@@ -53,7 +64,7 @@
 </p>
 <br clear="all"/>
 
-<!-- Game 2 -->
+<!-- Game 3 -->
 <p align="left">
   <img src="https://github.com/Preamps/PreamPS/blob/6c429bb4665659c3595f0b1b5addb6435e77bc1e/Logo%20game/OVER-AND-UNDER%20logo.png" width="55%" align="left"/>
   <span align="right">
@@ -64,7 +75,7 @@
 </p>
 <br clear="all"/>
 
-<!-- Game 3 -->
+<!-- Game 4 -->
 <p align="left">
   <img src="https://github.com/Preamps/PreamPS/blob/6c429bb4665659c3595f0b1b5addb6435e77bc1e/Logo%20game/FoxRio%20logo.png" width="55%" align="left"/>
   <span align="right">
@@ -79,9 +90,9 @@
 ###
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/?view=cm&to=preampstv@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?view=cm&to=preamps.mail@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<img width="5" />
+  <img width="5" />
     <a href = "https://www.preamps.tech" >
     <img height="50" alt="portfolio"  src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white" />
   </a>
