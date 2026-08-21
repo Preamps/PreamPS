@@ -46,7 +46,7 @@
   <img src="https://github.com/Preamps/PreamPS/blob/main/Logo%20game/Logo.png" width="55%" align="left"/>
   <span align="right">
     <br/><br/><br/><br/><br/><br/>
-    <a href="https://azalea44.itch.io/imnotnuggets"><img height="50" alt="imabigfish itch" src="https://img.shields.io/badge/imabigfish-white?style=for-the-badge&logo=itch.io&logoColor=white&color=blue"/></a>
+    <a href="https://preamps.itch.io/imabigfish"><img height="50" alt="imabigfish itch" src="https://img.shields.io/badge/imabigfish-white?style=for-the-badge&logo=itch.io&logoColor=white&color=blue"/></a>
     <a href="https://github.com/Preamps/Im-a-Big-Fish"><img height="40" alt="imabigfish repo" src="https://img.shields.io/badge/viewrepo-black?style=for-the-badge&logo=github&logoColor=white"/></a>
   </span>
 </p>
